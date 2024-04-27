@@ -44,6 +44,5 @@ We welcome contributions from the community! If you'd like to contribute to Apto
 
 - 🐦 Follow us on Twitter: [@AptosChat](https://twitter.com/AptosChat)
 - 💬 Join our Telegram community: [t.me/AptosChatHQ](https://t.me/AptosChatHQ)
-- 📧 Email us: info@aptoschat.com
 
 Let's revolutionize communication in the Aptos ecosystem together! 🚀
