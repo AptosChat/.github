@@ -31,10 +31,29 @@ Our mission is to revolutionize the way users interact within the Aptos ecosyste
 
 ## 🗺️ Roadmap
 
-- ✅ Phase 1: Foundation and Core Development (done)
-- 🚧 Phase 2: Feature Expansion and Optimization (ongoing)
-- 🔜 Phase 3: Ecosystem Integration and Growth
-- 🔮 Phase 4: Continuous Improvement and Expansion
+### Phase 1: Core Development and Foundation (Completed)
+- ✅ Core protocol design and implementation
+- ✅ Establishment of encryption standards
+- ✅ Initial wallet-to-wallet messaging prototype
+
+### Phase 2: Feature Expansion and Optimization (Ongoing)
+- ✅ Beta of high-quality voice and video calls
+- 🚧 Integrating Video Chat with Wallet Communications
+- 🚧 Optimization of end-to-end encryption mechanisms
+- 🚧 Using IPFS with multilayered encryption for message storage
+- 🚧 Integration with existing Aptos-based dApps for seamless user experience
+
+### Phase 3: Ecosystem Integration and Growth (Upcoming)
+- 🔜 Expansion of compatibility with additional Aptos ecosystem tools
+- 🔜 Public Beta Launch 
+- 🔜 Integration with Aptos wallets for Video Chat and cross communication
+- 🔜 Partnership with key players in the decentralized space to enhance features
+
+### Phase 4: Continuous Improvement and Expansion (Future)
+- 🔮 Introduction of new communication features based on user feedback
+- 🔮 Regular security audits and updates to ensure data protection
+- 🔮 Community-driven innovation to keep up with advancements in Web3 technology
+
 
 ## 🤝 Contributing
 
