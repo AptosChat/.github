@@ -28,6 +28,49 @@ Our mission is to revolutionize the way users interact within the Aptos ecosyste
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### 🔧 Server Repository
+
+<a href="https://github.com/AptosChat/aptoschatserver" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p>AptosChat Server - The backend server for handling communication and signaling.</p>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/AptosChat/aptoschatserver?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AptosChat/aptoschatserver?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/AptosChat/aptoschatserver)
+
+---
+
+### 💻 Client Repository
+
+<a href="https://github.com/AptosChat/aptoschat" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p>AptosChat Client - The frontend application providing the user interface for communication.</p>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/AptosChat/aptoschat?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AptosChat/aptoschat?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/AptosChat/aptoschat)
+
+---
+
+### 📜 Smart Contract Repository
+
+<a href="https://github.com/AptosChat/aptoschat_contracts" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p>AptosChat Contracts - Smart contracts powering the on-chain communication protocol.</p>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/AptosChat/aptoschat_contracts?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AptosChat/aptoschat_contracts?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/AptosChat/aptoschat_contracts)
+
+---
+
+
 ## 🗺️ Roadmap
 
 ### Phase 1: Core Development and Foundation (Completed)
