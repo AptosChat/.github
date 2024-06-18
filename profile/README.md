@@ -4,11 +4,10 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AptosChat)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AptosChatHQ)
 
-![AptosChat Banner](https://i.imgur.com/your_banner_image_url.png)
 
 ## 🌟 About AptosChat
 
-AptosChat is a groundbreaking communication protocol that brings seamless, secure, and feature-rich wallet-to-wallet messaging to the Aptos blockchain. Built using TypeScript, AptosChat leverages the power and flexibility of the language to create a robust and efficient communication solution for the decentralized world of Web3.
+AptosChat is a Fully On Chain communication protocol that brings seamless, secure, and feature-rich wallet-to-wallet messaging to the Aptos blockchain. Built using TypeScript, AptosChat leverages the power and flexibility of the language to create a robust and efficient communication solution for the decentralized world of Web3.
 
 ## 🎯 Our Mission
 
